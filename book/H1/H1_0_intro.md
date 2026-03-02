@@ -1,1 +1,1 @@
-# H2 - Statische bepaalde constructies - Integratiemethode
+# Statische bepaalde constructies - Integratiemethode
