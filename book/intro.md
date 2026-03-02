@@ -1,6 +1,7 @@
 (intro)=
-# Welcome to the Template Book
+# Werktuigbouwkunde - Mechanica
 
-_This is the first page the student will see when opening the url._
+Dit is het open digitale leerboek dat gebruikt is in 2024-2025 tijdens de colleges van Mechanica 4 van de opleiding Werktuigbouwkunde.
+In het huidige schooljaar 2025-2026 is er geen update van het boek geweest en is deze alleen nog ter referentie. 
+Eventuele vragen en opmerkingen kunnen altijd gesteld worden.
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
