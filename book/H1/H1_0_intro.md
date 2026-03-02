@@ -1,1 +1,1 @@
-# H2 - Krachtvectoren
+# H2 - Statische bepaalde constructies - Integratiemethode
